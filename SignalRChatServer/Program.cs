@@ -1,5 +1,5 @@
-using MongoDB.Driver;
 using MongoDB.Bson;
+using MongoDB.Driver;
 using SignalRChatServer.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
