@@ -71,5 +71,3 @@ app.MapControllers();
 app.MapGet("/", () => "API SignalR Chat Server rodando.");
 
 app.Run();
-
-
